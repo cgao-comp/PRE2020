@@ -1,2 +1,3 @@
 # PRE2020
-the code of the paper "The emergence of nonlinear crossover under epidemic dynamics in heterogeneous network" of PRE
+The code related to the paper below：
+Zhen Su, Chao Gao*, Jiming Liu, Tao Jia, Zhen Wang, Jurgen Kurths, The emergence of nonlinear crossover under epidemic dynamics in heterogeneous network, Physical Review E, 2020, 102(5):052311 (IF: 2.296, JCR 2)
